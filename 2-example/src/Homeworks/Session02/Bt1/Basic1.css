@@ -1,0 +1,19 @@
+.main{
+    display: flex;
+    border: 2px solid rgba(0, 0, 0, 0.699);
+    width: 50%;
+    height: 260px;
+    /* justify-content: center; */
+    margin: 0 auto;
+    margin-top: 25px;
+}
+.content{
+    margin-top: 15px;
+    
+}
+p{
+    color: rgba(0, 0, 0, 0.699);
+}
+img{
+    height: 250px;
+}

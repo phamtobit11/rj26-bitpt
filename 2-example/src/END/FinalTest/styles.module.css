@@ -1,0 +1,110 @@
+.navigation {
+  margin: 0;
+  padding: 0;
+  background-color: goldenrod;
+  box-sizing: border-box;
+  list-style: none;
+  display: flex;
+  height: 60px;
+  padding-left: 20px;
+}
+
+
+.link {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  transition: 0.5s;
+}
+
+.link a {
+  font-weight: 600;
+  text-decoration: none;
+  color: black;
+  margin-left: 20px;
+}
+
+.table {
+  width: 40%;
+  border: 1px solid black;
+  margin-left: 410px;
+  margin-top: 20px;
+}
+
+button {
+  margin-left: 20px;
+}
+
+.btn1 {
+  background-color: red;
+}
+
+.btn2 {
+  background-color: green;
+}
+
+.home {
+  width: 80%;
+  margin: 0 auto;
+  ;
+  justify-content: center;
+}
+
+.main {
+  display: flex;
+}
+
+.btnCre {
+  height: 30px;
+  margin-top: 519px;
+  background-color: green;
+}
+
+.text {
+  text-align: center;
+}
+
+.text12 {
+  font-size: 20px;
+  text-align: center;
+  width: 495px;
+  margin-left: 395px;
+  top: 200px;
+  position: absolute;
+}
+
+.blog {
+  display: flex;
+  padding-top: 60px;
+  justify-content: center;
+}
+
+div.img1 {
+  width: 30%;
+  margin-top: 10px;
+}
+
+.text2 {
+  margin-left: 40px;
+  text-align: center;
+
+}
+
+.text4 {
+  width: 530px;
+}
+
+
+
+img {
+  width: 1050px;
+  height: 400px;
+  padding-top: 10px;
+}
+
+h1 {
+  color: #fff;
+  position: absolute;
+  top: 100px
+
+}

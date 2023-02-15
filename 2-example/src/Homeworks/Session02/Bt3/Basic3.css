@@ -1,0 +1,29 @@
+.main{
+    border: 1px solid rgba(0, 0, 0, 0.589);
+    width: 30%;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.anh1{
+    margin-left: 40px;
+}
+.content{
+    margin-left: 30px;
+}
+.icon{
+    display: flex;
+}
+.samsung{
+    color: blue;
+}
+.icon1{
+    width: 20px;
+    height: 20px;
+    display: flex;
+    margin-top: 5px;
+}
+.so{
+    margin-left: 50px;
+    margin-top: 3px;
+}
